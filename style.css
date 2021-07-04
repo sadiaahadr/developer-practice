@@ -6,7 +6,7 @@ h1{
     font-size: 50px;
 }
 .orange-color{
-    color: orange;
+    color: rgb(255, 71, 209);
 }
 .flexible-container{
 
@@ -22,7 +22,7 @@ h1{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(blue, rgb(255, 71, 209));
     padding: 10px 40px;
     color: white;
     font-weight: 700;
